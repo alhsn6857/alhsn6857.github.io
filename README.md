@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>الحسن محمد حسن السمان — السيرة الذاتية</title>
-<meta name="description" content="أمين عام مركز التطوير وضمان الجودة · معيد بكلية الإدارة الطبية — جامعة 21 سبتمبر للعلوم الطبية والتطبيقية — صنعاء، اليمن">
+<meta name="description" content="أمين عام مركز التطوير وضمان الجودة · مدرس بكلية الإدارة الطبية — جامعة 21 سبتمبر للعلوم الطبية والتطبيقية — صنعاء، اليمن">
 <style>
 :root{--bg:#f6f7f9;--card:#fff;--text:#1d2630;--muted:#5a6472;--accent:#1f3a5f;--line:#e2e6ec;--link:#0b5cad;color-scheme:light dark}
 @media (prefers-color-scheme:dark){:root{--bg:#10151c;--card:#18202a;--text:#e8ecf1;--muted:#9aa6b4;--accent:#8db4e6;--line:#2a3441;--link:#7db7ff}}
